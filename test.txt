@@ -1,1 +1,1 @@
-CVE-2024-32077 Apache Software Foundation
+CVE-2024-4624 wpdevteam
