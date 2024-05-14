@@ -1,4 +1,1 @@
-CVE-2024-28276 n/a
-CVE-2024-28279 n/a
-CVE-2024-31810 n/a
-CVE-2024-33433 n/a
+CVE-2024-32077 Apache Software Foundation
