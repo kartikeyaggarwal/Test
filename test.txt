@@ -1,2 +1,5 @@
 CVE-2024-4624 wpdevteamCVE-2024-1486 GE HealthCare
 CVE-2024-34914 n/a
++CVE-2024-1486 GE HealthCare
+
++CVE-2024-34914 n/a
