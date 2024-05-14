@@ -1,1 +1,2 @@
 
+[{"cve_id": "CVE-2024-1486", "vendor": "GE HealthCare"}, {"cve_id": "CVE-2024-34914", "vendor": "n/a"}]
